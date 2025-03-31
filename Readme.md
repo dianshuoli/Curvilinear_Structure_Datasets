@@ -38,7 +38,7 @@ A collection of 8-class natural curvilinear structures with paired annotations.
 ## Usage License
 - **Citation**:
 ```bibtex
-@dataset{csd8-2023,
+@dataset{csd8-2025,
   title={CSD-8: Curvilinear Structure Dataset with Multi-level Annotations},
   author={Dianshuo Li},
   year={2025},
