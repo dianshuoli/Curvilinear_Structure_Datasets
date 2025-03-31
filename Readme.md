@@ -4,7 +4,7 @@
 A collection of 8-class natural curvilinear structures with paired annotations.  
 **Two versions available**:  
 - 🖼️ **Full-resolution**: Original high-quality images (max dimension 5000px+)  
-- ⚡ **1k-version**: Resized to 1000px  in length (aspect-ratio preserved) using nearest-neighbor interpolation  
+- ⚡ **1k-version**: Resized to 1000px  in length (aspect-ratio preserved) using nearest-neighbor interpolation. 
 
 **Recommended usage**:  
 ✅ Use **1k-version** for all training/testing workflows  
@@ -15,7 +15,7 @@ A collection of 8-class natural curvilinear structures with paired annotations.
 **Total Images**: 800+ (≥100 per category)  
 **Data Types**:
 
-- Original Images (`.jpg`or .JPG)
+- Original Images (`.jpg`or `.JPG`)
 - Pixel-level Masks (`.png`)
 - Centerline Masks (`.png`)
 
