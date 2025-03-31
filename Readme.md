@@ -2,6 +2,16 @@
 
 ## Dataset Description
 A collection of 8-class natural curvilinear structures with paired annotations.  
+**Two versions available**:  
+- 🖼️ **Full-resolution**: Original high-quality images (max dimension 4000px+)  
+- ⚡ **1k-version**: Resized to 1000px  in length (aspect-ratio preserved) using nearest-neighbor interpolation  
+
+**Recommended usage**:  
+✅ Use **1k-version** for all training/testing workflows  
+✅ Reserve full-resolution only for visual inspection  
+
+> **Note**: All annotations (segmentation/centerline) are pre-scaled to match their respective image versions.
+
 **Total Images**: 800+ (≥100 per category)  
 **Data Types**:
 
